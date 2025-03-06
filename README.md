@@ -8,7 +8,7 @@ Have you ever wondered why your PC is so slow when you first boot it? Are you si
 - **Priority-Based Queueing**: Applications are queued and prioritized based on their resource usage, ensuring the most critical ones start first.
 - **Improved Boot Time**: By delaying startup apps and managing their order, the system boots faster and consumes fewer resources.
 
-## Why It Works
+## Why You Need It
 When you boot up your system, all startup apps try to load at once, hogging your CPU and RAM. By manually managing and delaying the startup of these apps, your system has more resources available for essential tasks, leading to faster boot times and a smoother overall experience.
 
 ## Installation
