@@ -6,6 +6,6 @@ if %errorlevel% NEQ 0 (
     exit /b
 )
 
-py -m pip install psutil pyinstaller pywin32 collections
+py -m pip install psutil pyinstaller pywin32
 py SMS.py install
 py SMS.py start
