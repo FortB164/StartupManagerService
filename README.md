@@ -13,6 +13,13 @@ When you boot up your system, all startup apps try to load at once, hogging your
 
 ## Installation
 
+### For Python
+- ***Ensure you have Python installed and it is not from the Microsoft Store.
+- ***Ensure you have pip installed.
+- ***Run setup.bat to install and run.
+- ***Run delete.bat to delete.
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/startup-manager-service.git
