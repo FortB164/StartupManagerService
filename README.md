@@ -14,10 +14,10 @@ When you boot up your system, all startup apps try to load at once, hogging your
 ## Installation
 
 ### For Python
-- **Ensure you have Python installed and it is not from the Microsoft Store.
-- **Ensure you have pip installed.
-- **Run setup.bat to install and run.
-- **Run delete.bat to delete.
+- Ensure you have Python and pip installed
+- Ensure it is installed from the https://www.python.org/downloads/, not Microsoft Store
+- Run setup.bat to install and run.
+- Run delete.bat to delete.
 
 
 1. Clone the repository:
